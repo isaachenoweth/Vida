@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Pillow
 dxfwrite
 numpy
@@ -5,3 +6,7 @@ pandas
 PyYAML
 xlrd
 openpyxl
+=======
+PyYAML
+xlrd
+>>>>>>> origin/isaacvida

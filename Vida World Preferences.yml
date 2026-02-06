@@ -3,12 +3,16 @@ atmosphere: 1.0 #unused
 lightIntensity: 1.0
 maxSeedsPerPlant: 5
 ###Mortality settings###
+<<<<<<< HEAD
 allowOffWorld: FALSE
 ##experimental mortality##
 allowSubmerged: FALSE
 maxSubmerged: 0.05 #0.5 means 50% of the tree height is submerged
 ##########################
 ignoreGermDeathAtStart: TRUE
+=======
+ignoreGermDeathAtStart: FALSE
+>>>>>>> origin/isaacvida
 allowRandomDeath: TRUE
 randomDeathPlant: 0.0075
 randomDeathSeed: 0.0075

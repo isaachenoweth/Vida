@@ -640,4 +640,8 @@ class genericPlant(object):
         if makeThisManySeeds>maxSeedsPerPlant:
             makeThisManySeeds=maxSeedsPerPlant
         for i in range(makeThisManySeeds):
+<<<<<<< HEAD
             self.makeSeed(self, theGarden)
+=======
+            self.makeSeed(self)
+>>>>>>> origin/isaacvida
